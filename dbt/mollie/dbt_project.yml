@@ -1,0 +1,16 @@
+name: 'mollie'
+version: '1.0.0'
+profile: 'mollie'
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+
+models:
+  mollie:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: view
+    marts:
+      +materialized: table

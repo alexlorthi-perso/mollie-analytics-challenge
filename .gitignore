@@ -1,0 +1,12 @@
+# Data files (usually kept local)
+*.csv
+*.xlsx
+
+# Python/Notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db

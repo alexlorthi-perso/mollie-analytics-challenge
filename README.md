@@ -6,7 +6,6 @@ This repository contains my submission for the Mollie Analytics Challenge. It in
 
 ## 📂 Project Structure
 
-* **`/reports`**: Contains the final 3-page report.
 * **`/sql`**: SQL scripts for Question 2A and 2B.
 * **`/dbt`**: dbt repository where the models to drive the analysis of Part A were made.
 

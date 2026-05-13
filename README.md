@@ -7,7 +7,7 @@ This repository contains my submission for the Mollie Analytics Challenge. It in
 ## 📂 Project Structure
 
 * **`/sql`**: SQL scripts for Question 2A and 2B
-* **`/dbt`**: dbt repository where the models to drive the analysis of Part A were made. The `/analyses` file contains final SQLs ran against the mart models
+* **`/dbt`**: dbt repository where the models to drive the analysis of Part A were made. The `/analyses` folder contains final SQLs ran against the mart models
 
 ---
 

@@ -1,3 +1,5 @@
+-- int_payments_with_fees.sql
+
 SELECT
     p.customer_id,
     p.payment_month,

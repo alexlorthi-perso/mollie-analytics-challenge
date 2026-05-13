@@ -1,3 +1,5 @@
+-- stg_payments.sql
+
 SELECT
     customer_id,
     payment_month::DATE AS payment_month,
